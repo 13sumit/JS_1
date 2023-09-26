@@ -1,2 +1,2 @@
-# JS_1
+# js_1
 A code for javascript
